@@ -1,2 +1,2 @@
 # cp-folder
-for ccompetitive programming
+for competitive programming
